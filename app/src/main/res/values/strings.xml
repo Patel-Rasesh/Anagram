@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">iWfVJuA0G8jrmWrd5OZpgNSYmxJfEq3KoPpKg7NM</string>
+    <string name="back4app_client_key">8FdB4UEdC2ghbDB4hSu6QyTxXq1OzkM5dRKOH9OG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
